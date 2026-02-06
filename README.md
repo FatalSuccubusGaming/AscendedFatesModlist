@@ -18,8 +18,13 @@ Launching Game:
 5. Start the game again, load your save and again wait for messages in the top left to finish. Once these have finished, save your game again. Open the MCM and find MCM Recorder, run the included recorder file "AscendedFates1".
 6. Once this is finished the game settings should be ready to play, you can adjust if you want, but the game is intended to run on the pre-configured settings.
 7. We do recommend checking a few mods in the MCM though, so that you can customize keybinds to your liking; 
+
 *BowRapidCombo*
+
 *Dodge MCO-DXP*
+
 *One Click Power Attack*
+
 *Photo Mode*
-8. After you check these, play on!
+
+9. After you check these, play on!
