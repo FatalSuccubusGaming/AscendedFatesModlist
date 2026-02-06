@@ -27,4 +27,4 @@ Launching Game:
 
 *Photo Mode*
 
-9. After you check these, play on!
+8. After you check these, play on!
