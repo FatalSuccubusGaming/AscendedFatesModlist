@@ -21,7 +21,7 @@ Launching Game:
 
 *BowRapidCombo*
 
-*Dodge MCO-DXP*
+*Dodge Framework*
 
 *One Click Power Attack*
 
