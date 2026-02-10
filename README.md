@@ -5,10 +5,65 @@ Welcome to our Skyrim Modlist!
 We are working to create a comprehensive overhaul that brings realism and immersion to your Skyrim playthrough. 
 
 Installation:
-1. Install Wabbajack
-2. Pick this modlist (NSFW Category)
-3. Choose location
-4. Allow install to complete
+1. Install Wabbajack ***Note: Make sure you are logged into Nexus and have Nexus Premium, you will also need a loverslab account to download those files manually.***
+2. Create a downloads folder for this modlist specifically
+3. Manually download the following mods and place them in the downloads folder
+
+Attack MCO-DXP: <https://www.distaranimation.com/mods/attack>
+
+Dodge MCO-DXP: <https://www.distaranimation.com/mods/dodge>
+
+Modern Stagger Lock Framework: <https://github.com/max-su-2019/ModernStaggerLock/releases>
+
+Zaz Anim 8+: <https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg>
+
+Zaz Anim 8: <https://mega.nz/file/rJghkKBZ#Orm3SQ4_W7Icpbnjs--FzvX2cJQlZg82WlywEct_Jfw>
+
+BakaFactory SLAL Animation: <https://subscribestar.adult/posts/2039736>
+
+BakaFactory ABC: <https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/xPJzlJBb>
+
+BaboDialogue: <https://subscribestar.adult/posts/2011241>
+
+Baka Motion Data 1.70: <https://subscribestar.adult/posts/993525>
+
+Sexlab Approach Redux: <https://subscribestar.adult/posts/1812061>
+
+Sexlab Horrible Harassment: <https://subscribestar.adult/posts/1078724>
+
+SexLab SE - Sex Animation Framework v1.66b: <https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/>
+
+CreatureFrameworkV3-2: <https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/>
+
+MoreNastyCrittersSE&AE V16_1: <https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/>
+
+Amorous Adventures SE: <https://www.loverslab.com/applications/core/interface/file/attachment.php?id=2425756&key=6b10ad1af52a3b042635fe9333976184>
+
+SLAL SE: <https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/>
+
+Sexlab Eager NPCs Rev 2: <https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/>
+
+Sexlab Survival: <https://www.loverslab.com/files/file/15092-sexlab-survival-se/>
+
+Schlongs Of Skyrim AE-NG 1.4.0: <https://www.loverslab.com/files/file/46580-schlongs-of-skyrim-ae-ng/>
+
+Sexlab Separate Orgasm SE 2023-01-16: <https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/>
+
+SLSO Hakkey's Tweaks: <https://www.loverslab.com/files/file/29282-slso-hakkeys-tweaks-for-sexlab-separate-orgasms-se/>
+
+Original SOS AddOns: <https://www.loverslab.com/files/file/46642-sos-ae-ng-addons-and-updates/>
+
+SLSO HakkeyTweaks SOSAE Fix: <https://www.loverslab.com/files/file/46642-sos-ae-ng-addons-and-updates/>
+
+Kaidan AIO: <https://drive.google.com/file/d/1-_xxVHVVMTc-5eFFtrV8lu1zHFDbEpKF/view>
+
+Hel Rising V1.10SE: <https://www.loverslab.com/files/file/18745-hel-rising-norse-dungeon-quest-and-follower-mod-se/>
+
+Maelstrom: <https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/>
+
+4. Pick this modlist in the Wabbajack gallery (NSFW Category)
+5. Choose location to install and set the download directory to the folder you already made
+6. Allow install to complete
 
 Launching Game:
 1. Select a profile to use (There are 3 included profiles with different ENB settings for performance)
@@ -22,8 +77,6 @@ Launching Game:
 *BowRapidCombo*
 
 *Dodge Framework*
-
-*One Click Power Attack*
 
 *Photo Mode*
 
