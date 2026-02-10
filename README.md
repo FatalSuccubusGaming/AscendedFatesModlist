@@ -13,7 +13,7 @@ Attack MCO-DXP: <https://www.distaranimation.com/mods/attack>
 
 Dodge MCO-DXP: <https://www.distaranimation.com/mods/dodge>
 
-Modern Stagger Lock Framework: <https://github.com/max-su-2019/ModernStaggerLock/releases>
+Modern Stagger Lock Framework: <https://github.com/SkyHorizon3/ModernStaggerLock/releases>
 
 Zaz Anim 8+: <https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg>
 
