@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/FatalSuccubusGaming/AscendedFatesModlist/blob/e6b7228d0462a2842b93946006b8ee7dcb7b2be9/AscendFatesLogo.png",
+      "image": "https://raw.githubusercontent.com/FatalSuccubusGaming/AscendedFatesModlist/d596381e6818872c3edc6bc0f277030942db65ab/AscendFatesLogo.png",
       "readme": "https://github.com/FatalSuccubusGaming/AscendedFatesModlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ascended%20Fates.wabbajack_635b387e-aed0-49aa-9672-d95f1aefb056",
       "machineURL": "AscendedFatesModlist",
