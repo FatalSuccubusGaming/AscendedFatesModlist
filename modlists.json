@@ -1,0 +1,43 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Ascended Fates",
+    "description": "Ascended Fates is a comprehensive Skyrim AE overhaul intended for Skyrim 1.6.1170. This modlist enhances combat, giving it a modernized Action RPG feel with deadlier enemies. Immersion and realism are core staples in the composition of this list, creating an in-depth world suited to Skyrim's naturally harsh environment. Ensnare your destiny!",
+    "author": "FatalSuccubusGaming",
+    "maintainers": [
+      "github/FatalSuccubusGaming"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "DLC Required",
+      "Dark Fantasy",
+      "Hardcore",
+      "Survival",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/FatalSuccubusGaming/AscendedFatesModlist/blob/e6b7228d0462a2842b93946006b8ee7dcb7b2be9/AscendFatesLogo.png",
+      "readme": "https://github.com/FatalSuccubusGaming/AscendedFatesModlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Ascended%20Fates.wabbajack_635b387e-aed0-49aa-9672-d95f1aefb056",
+      "machineURL": "AscendedFatesModlist",
+      "discordURL": "https://discord.gg/9E7ZWJ2fwp"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash":"OSQ3EHfkcPE=",
+      "Size":2850134947,
+      "NumberOfArchives":1308,
+      "SizeOfArchives":160809121463,
+      "NumberOfInstalledFiles":199769,
+      "SizeOfInstalledFiles":244308948592,
+      "TotalSize":405118070055
+    },
+    "version": "1.0.0.0"
+  }
+]
+
