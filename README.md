@@ -1,6 +1,9 @@
 # AscendedFatesModlist
 Skyrim AE Wabbajack Modlist
 
+Our Discord: <https://discord.gg/9E7ZWJ2fwp>
+Nexus Page for the modlist: <https://www.nexusmods.com/skyrimspecialedition/mods/172269>
+
 Welcome to our Skyrim Modlist!
 We are working to create a comprehensive overhaul that brings realism and immersion to your Skyrim playthrough. 
 
