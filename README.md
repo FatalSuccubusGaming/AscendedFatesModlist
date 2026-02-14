@@ -96,3 +96,6 @@ Bow Rapid Fire is Right Click
 Dodge is Mouse 4
 Dual Wield block is V
 Photo Mode is the num pad dash key
+
+
+***P.S.*** If you want to, please, submit videos of your gameplay and screenshots of your character with this modlist in our discord! I will use submitted videos and screenshots in making trailers for the modlist! Thank you!
