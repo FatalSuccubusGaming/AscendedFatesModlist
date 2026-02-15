@@ -23,21 +23,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FatalSuccubusGaming/AscendedFatesModlist/d596381e6818872c3edc6bc0f277030942db65ab/AscendFatesLogo.png",
       "readme": "https://github.com/FatalSuccubusGaming/AscendedFatesModlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascended%20Fates.wabbajack_65b0c63d-24a9-454d-b830-fcef022b8346",
+      "download": "https://authored-files.wabbajack.org/Ascended%20Fates.wabbajack_43b89a0c-fe59-4207-9ebc-1bdd1f3b1e0c",
       "machineURL": "AscendedFatesModlist",
       "discordURL": "https://discord.gg/9E7ZWJ2fwp"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash":"BSrKEBchmQg=",
-      "Size":411370719,
+      "Hash":"rgweYZVsld4=",
+      "Size":411371013,
       "NumberOfArchives":1334,
-      "SizeOfArchives":163222225899,
-      "NumberOfInstalledFiles":199905,
-      "SizeOfInstalledFiles":252702308402,
-      "TotalSize":415924534301
+      "SizeOfArchives":163222129186,
+      "NumberOfInstalledFiles":199906,
+      "SizeOfInstalledFiles":252702313956,
+      "TotalSize":415924443142
     },
-    "version": "1.0.1.1"
+    "version": "1.0.1.2"
   }
 ]
 
