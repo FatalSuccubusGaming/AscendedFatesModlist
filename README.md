@@ -2,7 +2,9 @@
 Skyrim AE Wabbajack Modlist
 
 Our Discord: <https://discord.gg/9E7ZWJ2fwp>
+
 Nexus Page for the modlist: <https://www.nexusmods.com/skyrimspecialedition/mods/172269>
+
 Load Order Library Link: <https://loadorderlibrary.com/lists/ascended-fates-2>
 
 Welcome to our Skyrim Modlist!
