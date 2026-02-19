@@ -72,7 +72,7 @@ Maelstrom: <https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-q
 6. Allow install to complete
 
 Launching Game:
-1. Select a profile to use (There are 3 included profiles with different ENB settings for performance) Make sure you launch BethiniPie to adjust your screen resolution and other settings before playing.
+1. Select a profile to use (There are 3 included profiles with different ENB settings for performance) Make sure you launch BethiniPie to adjust your screen resolution and other settings before playing, when launching Bethini, first make sure you have the correct INI loaded for the profile you chose. To do so, go to edit, open setup, then for the Skyrim.Ini path click browse, go to the profile data and select the Skyrim.ini associated with your chosen profile, then you can adjust the settings as necessary. ***NOTE*** Any time you switch profiles make sure you do this AND make sure you right click the overwrite folder at the bottom of the modlist and clear it. If you do not clear this cache when launching a new profile, graphics data from your previous profile will remain and will overwrite the new selected profile. This will break your game if you forget.
 2. Make sure the overwrite section of MO2 is empty
 3. In the executable section make sure "Skyrim AE (SKSE)" is selected, hit run. ***NOTE*** The first time you run the game, it may appear to CTD (This is because the KiLoader and ENB files need to generate.) After this CTD, rerun the game it should start now.
 4. Once in game, allow the messages in the top left corner to finish. There will be a handful of dialogue boxes that pop up, select okay on these. (For the fertility mode box click no.) Once the messages stop, save the game and exit to desktop.
