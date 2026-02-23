@@ -92,6 +92,10 @@ ZaZ Animation Pack 8.0+ UBE Patch: <https://www.loverslab.com/files/file/28861-z
 4. Pick this modlist in the Wabbajack gallery (NSFW Category)
 5. Choose location to install and set the download directory to the folder you already made
 6. Allow install to complete
+7. Once the main install is complete, there are 2 nexus mods you will need to download for DBVO to work, these files currently do not compile correctly in Wabbajack so I couldn't include them on my end. These 2 files both use FOMOD installers and are easy to set up. In the name category for the Vampira Mod, call it "DBVO Female Pack" and in the name category for the Vampire mod call it "DBVO Male Pack", the FOMOD for both has the same setup, on Quests Page 2 there is a section for manual selection, in that section choose the CC content patch at the top, everything else in the rest of the pages should be automatically selected for you. Once they install put the female pack in the female voice separator at the top of the group. Do the same with the male pack in the male voice separator. These are the links to the voice packs:
+
+Vampira: <https://www.nexusmods.com/skyrimspecialedition/mods/163621>
+Vampire: <https://www.nexusmods.com/skyrimspecialedition/mods/120481>
 
 Launching Game:
 1. Select a profile to use (There are 4 included profiles with different ENB settings for performance and based on a male or female character) Make sure you launch BethiniPie to adjust your screen resolution and other settings before playing, when launching Bethini, first make sure you have the correct INI loaded for the profile you chose. To do so, go to edit, open setup, then for the Skyrim.Ini path click browse, go to the profile data and select the Skyrim.ini associated with your chosen profile, then you can adjust the settings as necessary. ***NOTE*** Any time you switch profiles make sure you do this AND make sure you right click the overwrite folder at the bottom of the modlist and clear it. If you do not clear this cache when launching a new profile, graphics data from your previous profile will remain and will overwrite the new selected profile. This will break your game if you forget.
