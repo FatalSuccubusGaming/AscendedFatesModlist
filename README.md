@@ -41,7 +41,7 @@ Sexlab Horrible Harassment: <https://subscribestar.adult/posts/1078724>
 
 SexLab SE - Sex Animation Framework v1.66b: <https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/>
 
-CreatureFrameworkV3-2: <https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/>
+CreatureFrameworkV3-2A: <https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/>
 
 MoreNastyCrittersSE&AE V16_1: <https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/>
 
