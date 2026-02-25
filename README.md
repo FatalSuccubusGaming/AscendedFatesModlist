@@ -12,7 +12,7 @@ Load Order Library Link: <https://loadorderlibrary.com/lists/ascended-fates-2>
 Welcome to our Skyrim Modlist!
 We are working to create a comprehensive overhaul that brings realism and immersion to your Skyrim playthrough. 
 
-Installation:
+**Installation:** 
 1. Install Wabbajack ***Note: Make sure you are logged into Nexus and have Nexus Premium, you will also need a loverslab account to download those files manually.***
 2. Create a downloads folder for this modlist specifically
 3. Manually download the following mods and place them in the downloads folder
@@ -61,8 +61,6 @@ Maelstrom: <https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-q
 
 Sexlab P+ V2.15.6 1.6.1170: <https://www.loverslab.com/files/file/25318-sexlab-p/>
 
-Automated SLSB Conversions v0.9d.hf: <https://www.loverslab.com/files/file/25318-sexlab-p/>
-
 Simple Prostitution 1_7_3 zip: <https://www.loverslab.com/files/file/22648-simple-player-prostitution/>
 
 Simple Prostitution 1_7_3_3 Update Zip: <https://www.loverslab.com/files/file/22648-simple-player-prostitution/>
@@ -91,6 +89,8 @@ Simple Slavery Rebuild 1.1.1: <https://www.loverslab.com/files/file/30373-simple
 
 ZaZ Animation Pack 8.0+ UBE Patch: <https://www.loverslab.com/files/file/28861-zaz-animation-pack-802023-ube-patch-and-bodyslide-ube-20/>
 
+Billy SLAL Animation Pack V9.9 SE: <https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-2-5/>
+
 4. Pick this modlist in the Wabbajack gallery (NSFW Category)
 5. Choose location to install and set the download directory to the folder you already made
 6. Allow install to complete
@@ -99,13 +99,26 @@ ZaZ Animation Pack 8.0+ UBE Patch: <https://www.loverslab.com/files/file/28861-z
 Vampira: <https://www.nexusmods.com/skyrimspecialedition/mods/163621>
 Vampire: <https://www.nexusmods.com/skyrimspecialedition/mods/120481>
 
-Launching Game:
+**Launching Game:**
 1. Select a profile to use (There are 4 included profiles with different ENB settings for performance and based on a male or female character) Make sure you launch BethiniPie to adjust your screen resolution and other settings before playing, when launching Bethini, first make sure you have the correct INI loaded for the profile you chose. To do so, go to edit, open setup, then for the Skyrim.Ini path click browse, go to the profile data and select the Skyrim.ini associated with your chosen profile, then you can adjust the settings as necessary. ***NOTE*** Any time you switch profiles make sure you do this AND make sure you right click the overwrite folder at the bottom of the modlist and clear it. If you do not clear this cache when launching a new profile, graphics data from your previous profile will remain and will overwrite the new selected profile. This will break your game if you forget.
+
 2. Make sure the overwrite section of MO2 is empty
+
 3. In the executable section make sure "Skyrim AE (SKSE)" is selected, hit run. ***NOTE*** The first time you run the game, it may appear to CTD (This is because the KiLoader and ENB files need to generate.) After this CTD, rerun the game it should start now.
+
 4. Once in game, create your character, (*NOTE:* If you are playing a female character, it is recommended to use UBE with this list - which means select a UBE race, you can still use 3BA by selecting a normal race, though this list is intended for UBE. If you are going to use a UBE character, in the screen to change gender, set it to male / 0 then back to female /1 to force it to update the body, otherwise OBody NG will not recognize your character body. If you wish to play male, do not select UBE races, use a default race which will use a HIMBO body.) After character creation allow the messages in the top left corner to finish. There will be a handful of dialogue boxes that pop up, select okay on these. (For the fertility mode box click no.) Once the messages stop, save the game and exit to desktop.
-5. Start the game again, load your save and again wait for messages in the top left to finish. Once these have finished, save your game again. Open the MCM and find MCM Recorder, run the included recorder files in the listed order "AF_Part1, AF_Part2 etc. (4 Parts.) ***Note*** I broke these settings into various recordings to make sure that the Recorder picked up all the settings I adjusted across the 100+ various MCMs, but there are a few things you will need to do on your own because MCM Recorder would not pick them up. First check the settings in Azurite Weathers and enable seasonal weathers and slightly darker sun fix. Next go to Dodge Framework - set your keybind, decrease hold duration to 0, and turn off sprint key last. Then go to Dodge MCO - set mana and stamina cost to 10 each (for intended gameplay, if you wish to make it more difficult, leave it at default values.) Setup let your hair down MCM settings if you want dynamic hair swapping, if not disable the mod so its not trying to change hair and clogging up the script load. After that set your photo mode hotkey (If you want to use it.) Next, go into show player in menus, go to hide 3d models page, and select all options under inventory menu so that when you are in the inventory menu you can see your character and not objects hovering in front of you. Lastly, go to Valhalla combat, under stamina settings set light attack miss cost to 12, under timed block disable timed block, projectile block, and timed projectile block, under stun page turn on execution on hit. These settings make it so that combat is costly, but not too much and so that the timed block included here doesn't end up conflicting with the Ordinator perk. ***Extra Note*** If you are playing on a male character, you will also need to go into the DBVO (Dragonborn Voice Over) MCM and manually select the "Vampire" voice pack. If you are playing a female, just double check to make sure "Vampira" is selected.
+
+5. Start the game again, load your save and again wait for messages in the top left to finish. Once these have finished, save your game again. Open the MCM and find MCM Recorder, run the included recorder files in the listed order "AF_Part1, AF_Part2 etc. (4 Parts.) ***Note*** I broke these settings into various recordings to make sure that the Recorder picked up all the settings I adjusted across the 100+ various MCMs, but there are a few things you will need to do on your own because MCM Recorder would not pick them up. 
+    - First check the settings in Azurite Weathers and enable seasonal weathers and slightly darker sun fix. Next go to Dodge Framework - set your keybind, decrease hold duration to 0, and turn off sprint key last. 
+    - Then go to Dodge MCO - set mana and stamina cost to 10 each (for intended gameplay, if you wish to make it more difficult, leave it at default values.) 
+    - Setup let your hair down MCM settings if you want dynamic hair swapping, if not disable the mod so its not trying to change hair and clogging up the script load. 
+    - After that set your photo mode hotkey (If you want to use it.) 
+    - Next, go into show player in menus, go to hide 3d models page, and select all options under inventory menu so that when you are in the inventory menu you can see your character and not objects hovering in front of you. 
+    - Lastly, go to Valhalla combat, under stamina settings set light attack miss cost to 12, under timed block disable timed block, projectile block, and timed projectile block, under stun page turn on execution on hit. These settings make it so that combat is costly, but not too much and so that the timed block included here doesn't end up conflicting with the Ordinator perk. 
+    - ***Extra Note*** If you are playing on a male character, you will also need to go into the DBVO (Dragonborn Voice Over) MCM and manually select the "Vampire" voice pack. If you are playing a female, just double check to make sure "Vampira" is selected.
+    
 6. Once these are finished you need to save the game, exit to desktop, then reload. After saving, exiting, and loading use the "o" key to choose a body preset from OBody. If you play a male character you will want to go adjust the sexlab mods so that they reflect male settings and not female settings. If you are playing a female with a UBE body and wish to use the included dynamic weight mod to work with iNeed, keep track of what preset you used in OBody, then go to Winterweight in MCM, enable the mod and turn off NPC options as well as normal map change options so that it only affects the player and does not change the normal map (the UBE body already has dynamic normal maps, other default settings work great) then in the female morphs page, click on the select preset option to select the body preset you are using. If you are using one of my UBE body presets they are scaled to be skinnier / fitter at 0 weight and curvier at 100 weight, this mod will dynamically change morph sliders to this scale.
+
 7. We do recommend checking a few other mods in the MCM, so that you can customize keybinds to your liking; 
 
 *BowRapidCombo*
@@ -126,6 +139,7 @@ Bow Melee attack is Mouse 5
 Bow Rapid Fire is Right Click
 Dual Wield block is V
 Archeron / Practical Defeat surrender is K
+Change Weapon Grip is G
 
 
 ***P.S.*** If you want to, please, submit videos of your gameplay and screenshots of your character with this modlist in our discord! I will use submitted videos and screenshots in making trailers for the modlist! Thank you!
