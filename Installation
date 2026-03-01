@@ -1,1 +1,11 @@
 
+***Installation:***
+
+Install Wabbajack Note: Make sure you are logged into Nexus and have Nexus Premium, you will also need a loverslab account to download those files manually.
+Create a downloads folder for this modlist specifically
+Manually download the mods on the downloads page and place them in the downloads folder
+Pick this modlist in the Wabbajack gallery (NSFW Category) or alternatively download the Wabbajack file from the Nexus Webpage and use the install from disk option in Wabbajack
+Choose location to install and set the download directory to the folder you already made
+Allow install to complete
+Once the main install is complete, there are 2 nexus mods you will need to download for DBVO to work, these files currently do not compile correctly in Wabbajack so I couldn't include them on my end. These 2 files both use FOMOD installers and are easy to set up. In the name category for the Vampira Mod, call it "DBVO Female Pack" and in the name category for the Vampire mod call it "DBVO Male Pack", the FOMOD for both has the same setup, on Quests Page 2 there is a section for manual selection, in that section choose the CC content patch at the top, everything else in the rest of the pages should be automatically selected for you. Once they install put the female pack in the female voice separator at the top of the group. Do the same with the male pack in the male voice separator. Only enable the female voice pack on female profiles and only enable the male voice pack on male profiles. Otherwise they will overwrite one another. These are the links to the voice packs:
+Vampira: https://www.nexusmods.com/skyrimspecialedition/mods/163621 Vampire: https://www.nexusmods.com/skyrimspecialedition/mods/120481
