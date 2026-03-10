@@ -105,6 +105,8 @@ Community Overlays 1 UBE Conversion: <https://mega.nz/file/UVojFSzJ#ucG-wMI6FmpU
 
 Community Overlays 3 UBE Conversion: <https://mega.nz/file/schAVCYI#XrsHoNBD3NTidyzIps4YnheY3v7GrnRZTkOYyG7oT7A>
 
+UBE Lashivious Lashes: <https://mega.nz/folder/YNUmWSSS#5W09Tobc6Y4k3i7XWZvMWQ/file/FIsV2RjQ>
+
 4. Pick this modlist in the Wabbajack gallery (NSFW Category)
 5. Choose location to install and set the download directory to the folder you already made
 6. Allow install to complete
