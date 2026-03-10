@@ -6,6 +6,7 @@ This modlist requires both Skyrim AE with all the included CC content, as well a
 Our Discord: <https://discord.gg/9E7ZWJ2fwp>
 
 Nexus Page for the modlist: <https://www.nexusmods.com/skyrimspecialedition/mods/172269>
+If the Wabbajack Gallery Download is not working, you can download from the Nexus and vice versa.
 
 Load Order Library Link: <https://loadorderlibrary.com/lists/ascended-fates-2>
 
@@ -117,6 +118,8 @@ Vampire: <https://www.nexusmods.com/skyrimspecialedition/mods/120481>
 
 **Launching Game:**
 1. Select a profile to use (There are 4 included profiles with different ENB settings for performance and based on a male or female character) Make sure you launch BethiniPie to adjust your screen resolution and other settings before playing, when launching Bethini, first make sure you have the correct INI loaded for the profile you chose. To do so, go to edit, open setup, then for the Skyrim.Ini path click browse, go to the profile data and select the Skyrim.ini associated with your chosen profile, then you can adjust the settings as necessary. ***NOTE*** Any time you switch profiles make sure you do this AND make sure you right click the overwrite folder at the bottom of the modlist and clear it. If you do not clear this cache when launching a new profile, graphics data from your previous profile will remain and will overwrite the new selected profile. This will break your game if you forget.
+
+***Additional Note*** If you wish to use a 21:9 Ultra Wide monitor, you can set up support for it by activating the mods underneath the 21:9 UI separator in the list. If you do not turn this on, 21:9 will not work correctly.
 
 2. Make sure the overwrite section of MO2 is empty
 
