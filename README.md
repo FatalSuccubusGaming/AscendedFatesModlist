@@ -91,6 +91,20 @@ ZaZ Animation Pack 8.0+ UBE Patch: <https://www.loverslab.com/files/file/28861-z
 
 Billy SLAL Animation Pack V9.9 SE: <https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-2-5/>
 
+H2135 Fantasy Series 4 Public: <https://drive.google.com/file/d/1LXkLpFlu0ZtzOY6SB5-x3j2mcXFQe1P7/view>
+
+H2135 Fantasy Seriess 8 Public: <https://drive.google.com/file/d/1foHKNLKavKnDRlXd_vOkVzmBuvy41i0e/view>
+
+BG3 Makeup UBE Conversion: <https://www.patreon.com/posts/124921524>
+
+UBE Hit 2 Eyes: <https://www.patreon.com/posts/ube-hit2-eyes-124503936>
+
+Nordic Warmaiden UBE Conversion: <https://drive.proton.me/urls/0NN33ZHK78#yEcYeBHZRtrj>
+
+Community Overlays 1 UBE Conversion: <https://mega.nz/file/UVojFSzJ#ucG-wMI6FmpU1B0hVUigdkRl1jwOJ4Vsmu2TFyktcAQ>
+
+Community Overlays 3 UBE Conversion: <https://mega.nz/file/schAVCYI#XrsHoNBD3NTidyzIps4YnheY3v7GrnRZTkOYyG7oT7A>
+
 4. Pick this modlist in the Wabbajack gallery (NSFW Category)
 5. Choose location to install and set the download directory to the folder you already made
 6. Allow install to complete
