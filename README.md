@@ -43,7 +43,7 @@ SexLab SE - Sex Animation Framework v1.66b: <https://www.loverslab.com/files/fil
 
 CreatureFrameworkV3-2A: <https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/>
 
-MoreNastyCrittersSE&AE V16_1: <https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/>
+MoreNastyCrittersSE&AE V16_1A: <https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/>
 
 Amorous Adventures SE: <https://www.loverslab.com/applications/core/interface/file/attachment.php?id=2425756&key=6b10ad1af52a3b042635fe9333976184>
 
