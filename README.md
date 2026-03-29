@@ -1,6 +1,8 @@
 # AscendedFatesModlist
 Skyrim AE Wabbajack Modlist
 
+***This modlist is currently down for maintenance and updating to version 1.4.0.0 - this version is scheduled for release on April 7th,2026***
+
 This modlist requires both Skyrim AE with all the included CC content, as well as having the Skyrim SE Creation Kit downloaded.
 
 Our Discord: <https://discord.gg/9E7ZWJ2fwp>
